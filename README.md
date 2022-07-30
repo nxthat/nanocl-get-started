@@ -25,3 +25,4 @@
     ```
     nanocl run --cluster my-cluster --network dev --image getting-started:master getting-started
     ```
+
